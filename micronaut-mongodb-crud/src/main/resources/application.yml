@@ -1,0 +1,4 @@
+micronaut:
+   application:
+      name: micronautMongodbCrud
+mongodb.uri: mongodb://localhost:27017
