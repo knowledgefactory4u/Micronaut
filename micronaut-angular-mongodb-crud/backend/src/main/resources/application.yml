@@ -1,0 +1,13 @@
+micronaut:
+   application:
+      name: micronautMongodbCrud
+mongodb.uri: mongodb://localhost:27017
+
+micronaut:
+  server:   
+    cors:
+      enabled: true
+      configurations:
+        web:
+          allowedOrigins:
+            - http://localhost:4200
