@@ -1,0 +1,5 @@
+micronaut:
+   caches:
+      companydetails:
+         maximumSize: 20
+         charset: UTF-8
