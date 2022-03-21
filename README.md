@@ -1,4 +1,4 @@
-<h2>How to run the application in your local machine?</h2>
+<h2>How to run the micronaut application in your local machine?</h2>
 
 Step 1: Clone or download the code
 
